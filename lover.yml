@@ -1,0 +1,29 @@
+# Taylor Swift "Lover" palette (dark)
+
+env:
+  TERM: xterm-256color
+
+colors:
+  primary:
+    background: '#070A0E'
+    foreground: '#b5bdc5'
+
+  normal:
+    black:   '0x665c54'
+    red:     '#F2AED4'
+    green:   '#94EBD2'
+    yellow:  '#F2DCB3'
+    blue:    '#C5C2E3'
+    magenta: '#BF4E83'
+    cyan:    '#71BBD9'
+    white:   '#FCEDF6'
+
+  bright:
+    black:   '0x928374'
+    magenta: '#F2AEE5'
+    green:   '#BAF2E2'
+    yellow:  '#F2ECB3'
+    blue:    '#C9B9DF'
+    magenta: '#D4879D'
+    cyan:    '#9EDDE5'
+    white:   '0xdfbf8e'
